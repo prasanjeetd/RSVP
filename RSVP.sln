@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalendarRSVP", "CalendarRSVP\CalendarRSVP.csproj", "{412F3477-35D3-4188-BAD8-EAED916BB2F0}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "VolunteerPlayerRSVP", "VolunteerPlayerRSVP\VolunteerPlayerRSVP.sqlproj", "{F7997115-F33F-4439-AA60-175C0F5E093E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{412F3477-35D3-4188-BAD8-EAED916BB2F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{412F3477-35D3-4188-BAD8-EAED916BB2F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{412F3477-35D3-4188-BAD8-EAED916BB2F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{412F3477-35D3-4188-BAD8-EAED916BB2F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7997115-F33F-4439-AA60-175C0F5E093E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7997115-F33F-4439-AA60-175C0F5E093E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7997115-F33F-4439-AA60-175C0F5E093E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F7997115-F33F-4439-AA60-175C0F5E093E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7997115-F33F-4439-AA60-175C0F5E093E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7997115-F33F-4439-AA60-175C0F5E093E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
