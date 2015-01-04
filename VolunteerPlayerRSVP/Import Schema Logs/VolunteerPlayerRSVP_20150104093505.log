@@ -1,0 +1,71 @@
+04-01-2015 15:05:05	This log contains information about the import schema operation into project 'VolunteerPlayerRSVP' on computer 'PRASANJEET' by user 'pjeet'.
+04-01-2015 15:05:06	Import of database schema has started.
+04-01-2015 15:05:15	Gathering database options
+04-01-2015 15:05:15	Gathering users
+04-01-2015 15:05:15	Gathering roles
+04-01-2015 15:05:16	Gathering application roles
+04-01-2015 15:05:16	Gathering role memberships
+04-01-2015 15:05:16	Gathering filegroups
+04-01-2015 15:05:16	Gathering full-text catalogs
+04-01-2015 15:05:16	Gathering assemblies
+04-01-2015 15:05:16	Gathering certificates
+04-01-2015 15:05:16	Gathering asymmetric keys
+04-01-2015 15:05:16	Gathering symmetric keys
+04-01-2015 15:05:16	Gathering encrypted symmetric keys
+04-01-2015 15:05:16	Gathering schemas
+04-01-2015 15:05:16	Gathering XML schema collections
+04-01-2015 15:05:16	Gathering user-defined data types
+04-01-2015 15:05:16	Gathering user-defined types
+04-01-2015 15:05:16	Gathering table types
+04-01-2015 15:05:16	Gathering unique keys for table types
+04-01-2015 15:05:16	Gathering primary keys for table types
+04-01-2015 15:05:16	Gathering check constraints for table types
+04-01-2015 15:05:16	Gathering default constraints for table types
+04-01-2015 15:05:16	Gathering partition functions
+04-01-2015 15:05:16	Gathering partition schemes
+04-01-2015 15:05:17	Gathering functions
+04-01-2015 15:05:17	Gathering encrypted functions
+04-01-2015 15:05:17	Gathering aggregates
+04-01-2015 15:05:17	Gathering procedures
+04-01-2015 15:05:17	Gathering encrypted procedures
+04-01-2015 15:05:17	Gathering tables
+04-01-2015 15:05:17	Gathering primary keys
+04-01-2015 15:05:17	Gathering unique constraints
+04-01-2015 15:05:17	Gathering foreign keys
+04-01-2015 15:05:17	Gathering default constraints
+04-01-2015 15:05:17	Gathering check constraints
+04-01-2015 15:05:17	Gathering views
+04-01-2015 15:05:17	Gathering encrypted views
+04-01-2015 15:05:17	Gathering indexes
+04-01-2015 15:05:17	Gathering statistics
+04-01-2015 15:05:17	Gathering full-text index stoplists
+04-01-2015 15:05:17	Gathering full-text indexes
+04-01-2015 15:05:17	Gathering spatial indexes
+04-01-2015 15:05:17	Gathering XML indexes
+04-01-2015 15:05:17	Gathering encrypted triggers
+04-01-2015 15:05:17	Gathering triggers
+04-01-2015 15:05:17	Gathering encrypted and clr ddl triggers
+04-01-2015 15:05:17	Gathering ddl triggers
+04-01-2015 15:05:17	Gathering synonyms
+04-01-2015 15:05:17	Gathering defaults
+04-01-2015 15:05:17	Gathering data constraint uddt bindings
+04-01-2015 15:05:17	Gathering rules
+04-01-2015 15:05:17	Gathering data constraint uddt bindings
+04-01-2015 15:05:17	Gathering message types
+04-01-2015 15:05:17	Gathering queues
+04-01-2015 15:05:17	Gathering contracts
+04-01-2015 15:05:17	Gathering services
+04-01-2015 15:05:17	Gathering event notifications
+04-01-2015 15:05:17	Gathering remote service bindings
+04-01-2015 15:05:17	Gathering broker priorities
+04-01-2015 15:05:17	Gathering signatures
+04-01-2015 15:05:17	Gathering data compression options
+04-01-2015 15:05:17	Gathering extended properties
+04-01-2015 15:05:19	Gathering credentials
+04-01-2015 15:05:19	Gathering logins
+04-01-2015 15:05:19	Gathering server audits
+04-01-2015 15:05:25	Scanning project for duplicate elements
+04-01-2015 15:05:25	Finished duplicate element processing
+04-01-2015 15:05:26	Finished importing database.
+04-01-2015 15:05:26	A summary of the import was saved to the following location: F:\WORK\ASP.NET\MVC\Applications\RNDApplications\VolunteerPlayerRSVP\Import Schema Logs\VolunteerPlayerRSVP_20150104093505.log
+04-01-2015 15:05:27	Click Finish to continue...

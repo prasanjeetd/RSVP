@@ -1,0 +1,5 @@
+F:\WORK\ASP.NET\MVC\Applications\RNDApplications\VolunteerPlayerRSVP\bin\Debug\VolunteerPlayerRSVP.dacpac
+F:\WORK\ASP.NET\MVC\Applications\RNDApplications\VolunteerPlayerRSVP\bin\Debug\VolunteerPlayerRSVP.dll
+F:\WORK\ASP.NET\MVC\Applications\RNDApplications\VolunteerPlayerRSVP\bin\Debug\VolunteerPlayerRSVP.pdb
+F:\WORK\ASP.NET\MVC\Applications\RNDApplications\VolunteerPlayerRSVP\obj\Debug\VolunteerPlayerRSVP.dll
+F:\WORK\ASP.NET\MVC\Applications\RNDApplications\VolunteerPlayerRSVP\obj\Debug\VolunteerPlayerRSVP.pdb
